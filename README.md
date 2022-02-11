@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suvidhasagar
-- 👀 I’m interested in Python, Machine Learning
+- 👀 I’m interested in SQL,EXCEL Python, Machine Learning,
 - 🌱 I’m currently learning Data Science course 
 - 💞️ I’m looking to collaborate 
 reach m on dhoresuvidha24@gmail.com
